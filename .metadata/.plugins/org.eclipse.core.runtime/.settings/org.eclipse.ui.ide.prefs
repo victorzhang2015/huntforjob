@@ -1,13 +1,8 @@
-<<<<<<< HEAD
+=\=\=\=\=\=\=
+<<<<<<<=HEAD
+>>>>>>>=1ed48e5b97dc629c9c054793492deffc659fcb4e
 PROBLEMS_FILTERS_MIGRATE=true
 eclipse.preferences.version=1
 platformState=1474551155262
 quickStart=true
 tipsAndTricks=true
-=======
-#Thu Nov 24 10:14:45 CST 2016
-eclipse.preferences.version=1
-tipsAndTricks=true
-platformState=1466735470738
-quickStart=true
->>>>>>> 1ed48e5b97dc629c9c054793492deffc659fcb4e
