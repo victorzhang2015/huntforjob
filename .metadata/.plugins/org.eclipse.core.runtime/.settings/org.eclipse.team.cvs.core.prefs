@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 eclipse.preferences.version=1
 repositories/%pserver%anonymous@examples.myeclipseide.com%%home%cvs%public%myeclipse%examples/location=\:pserver\:anonymous@examples.myeclipseide.com\:/home/cvs/public/myeclipse/examples
+=======
+#Thu Nov 24 10:14:23 CST 2016
+repositories/%pserver%anonymous@examples.myeclipseide.com%%home%cvs%public%myeclipse%examples/location=\:pserver\:anonymous@examples.myeclipseide.com\:/home/cvs/public/myeclipse/examples
+eclipse.preferences.version=1
+>>>>>>> 1ed48e5b97dc629c9c054793492deffc659fcb4e
